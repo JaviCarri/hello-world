@@ -1,2 +1,3 @@
 # hello-world
-Typical first coding exercise
+
+Hi GitHub community!!!
